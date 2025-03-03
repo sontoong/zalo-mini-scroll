@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "AkzoNobel for Salesman",
+    "headerTitle": "AkzoNobel for Salesman",
+    "headerColor": "",
+    "textColor": "black",
+    "statusBarColor": "#ffffff",
+    "leftButton": "none",
+    "statusBar": "transparent",
+    "selfControlLoading": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "actionBarHidden": true
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [],
+  "template": {
+    "primaryColor": "#006af5",
+    "prefixCurrencySymbol": false,
+    "currencySymbol": "đ",
+    "headerLogo": ""
+  }
+}

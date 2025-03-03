@@ -1,0 +1,17 @@
+{
+  "cwd": "D:\\work\\aziCloud\\azicloud-activation-sup",
+  "newProject": true,
+  "name": "AkzoNobel for Salesman",
+  "package": "zmp-ui",
+  "framework": "react-typescript",
+  "cssPreProcessor": "scss",
+  "template": "blank",
+  "includeTailwind": true,
+  "theming": {
+    "color": "#007aff",
+    "darkTheme": false,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "stateManagement": "recoil"
+}
