@@ -7,6 +7,8 @@ import "./presentation/styles/tailwind.css";
 
 import "zmp-ui/zaui.css";
 
+import "./presentation/styles/app.scss";
+
 // import "./";
 // import "./utils/rippleEffect.js";
 // Import App Component
