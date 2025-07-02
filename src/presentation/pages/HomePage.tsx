@@ -37,9 +37,6 @@ const HomePage: FC = () => {
       }
 
       const pullLength = Math.max(0, touch_cord - startPoint);
-      if (pullChange !== undefined && pullLength < pullChange && isPulling) {
-        return
-      }
       setPullChange(pullLength);
     };
 
